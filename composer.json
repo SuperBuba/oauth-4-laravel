@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": ">=5.3",     
-        "superbuba/oauth": "~0.1"
+        "superbuba/oauth": "*"
     },
     "require-dev": {
         "illuminate/support": "~4"
